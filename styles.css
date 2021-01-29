@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    background-color: rgb(90, 38, 212);
+    background-blend-mode: luminosity;
+    background-size: 1400px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#title {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+#description {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-size: large;
+}
+
+
+div {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: white;
+}
+
